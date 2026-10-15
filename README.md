@@ -6,7 +6,7 @@ This repository is used as a distribution platform for `Clean Icons - Mechagnome
 
 [Comparison vs default Blizzard icons](https://acidweb.github.io/Clean-Icons-Mechagnome-Edition/)
 
-![Icons](./docs/Merge.png)
+![Split comparison of redesigned Clean Icons - Mechagnome Edition icons and the original World of Warcraft icons](./docs/Merge.png)
 
 Check https://www.wowinterface.com/downloads/info25064-CleanIcons-MechagnomeEdition for more details.
 
